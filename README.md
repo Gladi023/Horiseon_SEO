@@ -18,6 +18,7 @@ https://gladi023.github.io/Horiseon_SEO/
 
 The sections at the top are linked to the bottom sections that corresppond to them as shown below:
 ![Screenshot of second half of website](./assets/images/BottomSection.png)
+3. This website was optimized by using semantic HTML for greater accessibility and better user experience. 
 
 ## Credits
 The original material that was reviewed for accessibility belongs to the Horiseon Company. 
