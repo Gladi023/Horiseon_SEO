@@ -13,7 +13,7 @@ Deploy the website and navigate through the website.
 ## Usage
 1. The website can be deployed with the following link:
 https://gladi023.github.io/Horiseon_SEO/
-2. After deploying the website the user can click on the top sections: "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketin". As shown below:
+2. After deploying the website the user can click on the top sections: "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". As shown below:
 ![Screenshot of first half of the website](./assets/images/TopSections.png)
 
 The sections at the top are linked to the bottom sections that corresppond to them as shown below:
